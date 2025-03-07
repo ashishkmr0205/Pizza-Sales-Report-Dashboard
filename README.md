@@ -45,8 +45,8 @@ Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Repo
 - **Seasonality:** Maximum orders in **July and January**.  
 - **Category Performance:** **Classic pizzas** drive the highest sales.  
 - **Size Impact:** **Large pizzas** contribute the most to revenue.  
-- **Best Sellers:** **The Thai Chicken** and **The Classic Deluxe pizzas**  generate significantly higher sales in the term of Revenue, Orders and Quantities.  
-- **Worst Sellers:** **The Brie Carre pizzas** underperform and may require menu adjustments.  
+- **Best Sellers:** **The Thai Chicken** and **The Classic Deluxe** pizzas  generate significantly higher sales in the term of Revenue, Orders and Quantities.  
+- **Worst Sellers:** **The Brie Carre pizza** underperform and may require menu adjustments.  
 
 ## 🏆 Conclusion & Recommendations  
 - **Leverage peak sales days** (weekends) for marketing promotions.  
