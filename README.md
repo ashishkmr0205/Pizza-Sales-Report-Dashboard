@@ -17,5 +17,8 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
 - How many **total orders and pizzas sold** over a selected period?  
 - What are the **busiest days and months** for sales?  
 - Which **pizza category and size** contributes the most to revenue?  
-- What are the **best and worst-performing pizzas**?  
+- What are the **best and worst-performing pizzas**?
+
+  Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sale_project.pbix">View Dashboard</a>
+
 
