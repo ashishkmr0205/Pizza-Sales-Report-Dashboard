@@ -11,3 +11,11 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
 
   ## Dataset Used
   - <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
+
+  ## 📊 Key Performance Indicator (KPI) Questions  
+- What is the **total revenue and average order value**?  
+- How many **total orders and pizzas sold** over a selected period?  
+- What are the **busiest days and months** for sales?  
+- Which **pizza category and size** contributes the most to revenue?  
+- What are the **best and worst-performing pizzas**?  
+
