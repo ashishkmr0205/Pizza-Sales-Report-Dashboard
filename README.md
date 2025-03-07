@@ -20,7 +20,7 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
 - Which **pizza category and size** contributes the most to revenue?  
 - What are the **best and worst-performing pizzas**?
 
-  Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sale_project.pbix">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sale_project.pbix">View Dashboard</a>
 
   ## 🔄 Process  
 1. **Data Collection & Cleaning**  
