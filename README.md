@@ -10,6 +10,7 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
 - Provide **actionable insights** for decision-making and sales optimization.
 
   ## Dataset Used
+  
   - <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
 
   ## 📊 Key Performance Indicator (KPI) Questions  
@@ -35,7 +36,7 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
    - Analyzed **daily and monthly order trends**.  
    - Identified **top-performing and underperforming pizzas**. 
 
-## DASHBOARD Preview
+## Dashboard Preview
 ![Dashboard](https://github.com/user-attachments/assets/b40e2b07-50d1-445e-897c-7bea8907704d)
 ![Best_vs_Worst Sellers](https://github.com/user-attachments/assets/9b030d85-d907-4e03-b4ed-b88995da6adf)
 
