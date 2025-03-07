@@ -21,4 +21,46 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
 
   Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sale_project.pbix">View Dashboard</a>
 
+  ## 🔄 Process  
+1. **Data Collection & Cleaning**  
+   - Imported sales transaction data.  
+   - Cleaned and formatted data for Power BI visualization.  
+
+2. **Dashboard Development**  
+   - Created **interactive visuals** using Power BI (bar charts, pie charts, line graphs).  
+   - Implemented **filters for date selection and pizza category segmentation**.  
+
+3. **KPI Calculation & Analysis**  
+   - Computed **total revenue, total orders, and average order value**.  
+   - Analyzed **daily and monthly order trends**.  
+   - Identified **top-performing and underperforming pizzas**. 
+
+## DASHBOARD Preview
+![Dashboard](https://github.com/user-attachments/assets/b40e2b07-50d1-445e-897c-7bea8907704d)
+![Best_vs_Worst Sellers](https://github.com/user-attachments/assets/9b030d85-d907-4e03-b4ed-b88995da6adf)
+
+## 📈 Insights  
+- **Sales Trends:** Sales peak on **Fridays and Saturdays**.  
+- **Seasonality:** Maximum orders in **July and January**.  
+- **Category Performance:** **Classic pizzas** drive the highest sales.  
+- **Size Impact:** **Large pizzas** contribute the most to revenue.  
+- **Best Sellers:** The Thai Chicken, The Classic Deluxe pizzas  generate significantly higher sales in the term of Revenue, Orders and Quantities.  
+- **Worst Sellers:** The Brie Carre pizzas underperform and may require menu adjustments.  
+
+## 🏆 Conclusion & Recommendations  
+- **Leverage peak sales days** (weekends) for marketing promotions.  
+- **Optimize inventory** during high-demand months.  
+- **Focus on high-performing pizzas** to maximize revenue.  
+- **Reevaluate or promote underperforming pizzas**.  
+- **Enhance the dashboard** with additional insights for continuous improvement.  
+
+## 🛠️ Tools Used  
+- **Power BI** – Data visualization & dashboard creation
+  ----
+
+  🚀 Feel free to contribute or provide feedback!
+
+
+
+
 
