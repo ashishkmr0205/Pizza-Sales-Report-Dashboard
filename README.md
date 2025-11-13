@@ -1,9 +1,9 @@
-#  🍕 Pizza Sales Report Dashboard  
+# Pizza Sales Report Dashboard  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project involves building a **Power BI Dashboard** to analyze pizza sales performance. The dashboard provides **key insights** into revenue, order trends, best/worst-selling pizzas, and customer behavior.  
 
-## 🎯 Project Objective  
+##  Project Objective  
 - Track and analyze **total revenue, order trends, and pizza sales performance**.  
 - Identify the **busiest days, peak order times, and top-selling pizza categories**.  
 - Determine the **best and worst-selling pizzas** based on revenue, quantity, and total orders.  
@@ -13,7 +13,7 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
   
   - <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
 
- ## 📊 Key Performance Indicator (KPI) Questions  
+ ##  Key Performance Indicator (KPI) Questions  
 - What is the **total revenue and average order value**?  
 - How many **total orders and pizzas sold** over a selected period?  
 - What are the **busiest days and months** for sales?  
@@ -22,7 +22,7 @@ This project involves building a **Power BI Dashboard** to analyze pizza sales p
 
 Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Report-Dashboard/blob/main/pizza_sale_project.pbix">View Dashboard</a>
 
-  ## 🔄 Process  
+  ##  Process  
 1. **Data Collection & Cleaning**  
    - Imported sales transaction data.  
    - Cleaned and formatted data for Power BI visualization.  
@@ -40,7 +40,7 @@ Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Repo
 ![Dashboard](https://github.com/user-attachments/assets/b40e2b07-50d1-445e-897c-7bea8907704d)
 ![Best_vs_Worst Sellers](https://github.com/user-attachments/assets/9b030d85-d907-4e03-b4ed-b88995da6adf)
 
-## 📈 Insights  
+## Key Insights  
 - **Sales Trends:** Sales peak on **Fridays and Saturdays**.  
 - **Seasonality:** Maximum orders in **July and January**.  
 - **Category Performance:** **Classic pizzas** drive the highest sales.  
@@ -48,18 +48,19 @@ Dashboard Interaction <a href="https://github.com/ashishkmr0205/Pizza-Sales-Repo
 - **Best Sellers:** **The Thai Chicken** and **The Classic Deluxe** pizzas  generate significantly higher sales in the term of Revenue, Orders and Quantities.  
 - **Worst Sellers:** **The Brie Carre pizza** underperform and may require menu adjustments.  
 
-## 🏆 Conclusion & Recommendations  
+##  Conclusion & Recommendations  
 - **Leverage peak sales days** (weekends) for marketing promotions.  
 - **Optimize inventory** during high-demand months.  
 - **Focus on high-performing pizzas** to maximize revenue.  
 - **Reevaluate or promote underperforming pizzas**.  
 - **Enhance the dashboard** with additional insights for continuous improvement.  
 
-## 🛠️ Tools Used  
+##  Tools Used  
+- **Power Query** - Data Cleaning, Transforming and Loading
 - **Power BI** – Data visualization & dashboard creation
   ----
 
-  🚀 Feel free to contribute or provide feedback!
+Feel free to contribute or provide feedback!
 
 
 
